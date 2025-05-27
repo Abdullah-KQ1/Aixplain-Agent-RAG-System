@@ -1,3 +1,4 @@
+# Aixplain Agent RAG System Project
 The Aixplain Agent is a Retrieval-Augmented Generation (RAG) agent that integrates data from three different sources to provide comprehensive answers to user queries. The system retrieves and indexes data from the following sources:
 
 - **CSV File:** Contains detailed country information.
