@@ -49,3 +49,8 @@ The data sources are:
     - Emirates flight EK5453 from Perth International (PER) to Karratha (KTA) is currently en route.
     - Emirates flight EK5718 from Perth International (PER) to Canberra (CBR) is currently en route."
 
+ 
+### Future Improvements:
+1. Adding more agents (e.g., summarization or analytics)
+2. adding UI
+
